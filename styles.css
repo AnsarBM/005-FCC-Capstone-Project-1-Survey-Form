@@ -1,0 +1,10 @@
+html{
+    background-color:burlywood;
+}
+
+.entire-form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
