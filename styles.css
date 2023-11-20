@@ -38,7 +38,7 @@ adjust the spaces on the edges*/
 .fillable-sections{
     display:grid;
     width:50%;                         /*form occupies only 50% of the entire page*/
-    height: 150vh;                     /*form takes 100 view port*/ 
+    border-bottom: 40px;                      /*bottom of the form 40px ( space)*/ 
     margin: 20px auto 0px auto;       /*form and top paragraph 20px, left and right center by auto, bottom of the form 0px (no space)*/
     padding:40px 40px 90px 40px;      /*form content and the border distances*/
     border-radius: 5px;               /*Curve the corners of the boxes*/
